@@ -31,21 +31,21 @@
 ### getFullYear() returns the full year of a date (4 digits).
 ![surati new date milisicund hamash](./img/IOS-6.jpg)
 ## 3-getMonth()
-###getMonth() returns the month (0 to 11) of the date. January = 0, February = 1, ..
+### getMonth() returns the month (0 to 11) of the date. January = 0, February = 1, ..
 ![surati new date milisicund hamash](./img/IOS-7.jpg)
 ## 4-getDate()
-###The getDate() method returns the day of the month (1 to 31) of the date.
+### The getDate() method returns the day of the month (1 to 31) of the date.
 ![surati new date milisicund hamash](./img/IOS-8.jpg)
 ## 5-getDay()
-###The getDay() method returns the day of the week (0 to 6) of the date. Sunday = 0, Monday = 1,
+### The getDay() method returns the day of the week (0 to 6) of the date. Sunday = 0, Monday = 1,
 ![surati new date milisicund hamash](./img/IOS-9.jpg)
 ## 6-getHours()
-###getHours() returns the hours (0 to 23) of a date
+### getHours() returns the hours (0 to 23) of a date
 ![surati new date milisicund hamash](./img/ios-10.jpg)
 ## 7-getMinutes
-###getMinutes() returns the minutes (0 to 59) of a date.
+### getMinutes() returns the minutes (0 to 59) of a date.
 ![surati new date milisicund hamash](./img/IOS-11.jpg)
 ## setFullYear()
-###setFullYear() sets the year of the date. setFullYear() can also set the month and day
+### setFullYear() sets the year of the date. setFullYear() can also set the month and day
 ![surati new date milisicund hamash](./img/IOS-12.jpg)
 
